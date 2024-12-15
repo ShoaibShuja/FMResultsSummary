@@ -1,4 +1,4 @@
-# 🌈 Results summary component 🌈
+# 🌈 Results Summary Component 🌈
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
@@ -29,7 +29,7 @@ Follow these steps to get your project up and running:
 ## 📅 Future Improvements
 
 The card can be made using some different colors 💡
-Although its super unnecessary but the card can be animated using GSAP 💡
+This simple result card can be used as a component for big academic websites 💡
 Add you own idea as well 🌱
 
 ## 📫 Contact
