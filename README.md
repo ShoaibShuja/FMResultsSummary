@@ -8,7 +8,7 @@ This is a super simple website project that utilizes the wonderful technologies 
 
 ## 🌟 Project Overview
 
-A simple singular page that demonstrates a Blog Preview Card.
+A simple singular page that demonstrates a Results Summary Component.
 
 ## 🔑 Key Features
 
